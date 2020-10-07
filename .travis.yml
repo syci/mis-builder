@@ -7,9 +7,6 @@ cache:
 python:
   - "3.6"
 
-node_js:
-  - "11"
-
 addons:
   postgresql: "9.6"
   apt:
